@@ -22,7 +22,7 @@ Prawidłowe działanie prostownika można potwierdzić przez testowanie układu.
 
 Jak widać, symulacja w pełni odpowiada rzeczywistemu układowi prostownika sterowanego jednopołówkowego.
 
-Szczegółowy opis stworzonego modelu dostępny jest w ![moim projekcie](https://github.com/Kacper-Hoffman/Half-Rectifier/blob/main/Kacper%20Hoffman%20-%20Projekt%20Elektronika.pdf).
+Szczegółowy opis stworzonego modelu dostępny jest w [moim projekcie](https://github.com/Kacper-Hoffman/Half-Rectifier/blob/main/Kacper%20Hoffman%20-%20Projekt%20Elektronika.pdf).
 
 ---
 # Controlled Half Wave Rectifier with Optoisolation - LTSpice 🇬🇧
@@ -49,4 +49,4 @@ Whether the rectifier works can be tested. We start the simulation for different
 
 As we can see, the simulation works as a real controlled half wave rectifier.
 
-The detailed description of the model is available in ![my project (🇵🇱 only)](https://github.com/Kacper-Hoffman/Half-Rectifier/blob/main/Kacper%20Hoffman%20-%20Projekt%20Elektronika.pdf).
+The detailed description of the model is available in [my project (🇵🇱 only)](https://github.com/Kacper-Hoffman/Half-Rectifier/blob/main/Kacper%20Hoffman%20-%20Projekt%20Elektronika.pdf).
